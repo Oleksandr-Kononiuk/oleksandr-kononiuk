@@ -1,4 +1,4 @@
-### Connect with me <img src="https://im7.ezgif.com/tmp/ezgif-7-c68c5e9536e8.gif" width="70">
+### Connect with me <img src="https://im7.ezgif.com/tmp/ezgif-7-c68c5e9536e8.gif" width="32">
 
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn1.iconfinder.com/data/icons/social-web-icons/154/facebook-f-letter-logo-logotype-512.png" />][facebook]
 
