@@ -15,4 +15,4 @@
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=Oleksandr-Kononiuk&show_icons=true&count_private=true)
 
-[facebook]: https://www.facebook.com/profile.php?id=100014693370420
+[facebook]: https://www.facebook.com/profile.php?id=100014693370420 "Facebook profile"
